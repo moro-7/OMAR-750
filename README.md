@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OMAR-750
-- 👀 I’m interested in unix, java and c++ code
-- 🌱 I’m currently learning java and c++
+- 👀 I’m interested in unix, html, css, and js code
+- 🌱 I’m currently learning html, css, and javascript
 - 📫 How to reach me: omar.m.alshaqra@gmail.com
 
 <!---
