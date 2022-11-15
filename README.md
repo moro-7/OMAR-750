@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OMAR-750
+- 👋 Hi, I’m @MORO-7
 - 👀 I’m interested in unix, html, css, and js code
 - 🌱 I’m currently learning html, css, and javascript
 - 📫 How to reach me: omar.m.alshaqra@gmail.com
